@@ -1,0 +1,11 @@
+[
+  {
+    "name": "YouTube 音乐",
+    "platform": "Youtube",
+    "version": "0.0.1",
+    "author": "韩雨泽",
+    "supportedSearchType": ["music"],
+    "srcUrl": "https://raw.githubusercontent.com/bruceteh95/js-test/main/youtube/index.js",
+    "cacheControl": "no-cache"
+  }
+]
